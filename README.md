@@ -3,7 +3,6 @@
 - 💻 c++ and js main
 - 🙉 i like deadlifting
 - 🚽 auramaxxer
-- 🐉 creator of shokams danmaku destiny
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
