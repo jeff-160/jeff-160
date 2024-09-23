@@ -3,6 +3,7 @@
 - 💻 c++ and js main
 - 🙉 i like deadlifting
 - 🚽 auramaxxer
+- 🕹 occasionally do gamedev
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
