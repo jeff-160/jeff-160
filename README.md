@@ -5,6 +5,11 @@
 - 🚽 auramaxxer
 - 🕹 occasionally do gamedev
 
+### Experiences
+- HSAS Computing Forum 2023 - Most sustainable project
+- Sentinel Challenge 2024 - Invitational Category Champion
+- Intern at Sabre - Developer for CSL HotelAvail and HotelDetails api tools
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
