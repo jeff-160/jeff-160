@@ -1,14 +1,10 @@
 ## Hi 👋
 
-- 💻 c++ and js main
-- 🙉 i like deadlifting
-- 🚽 auramaxxer
-- 🕹 occasionally do gamedev
-
 ### Experiences
 - HSAS Computing Forum 2023 - Most sustainable project
 - Sentinel Challenge 2024 - Invitational Category Champion
-- Intern at Sabre - Developer for CSL HotelAvail and HotelDetails api tools
+- Intern at Sabre - Developer for CSL HotelAvail and HotelDetails API tools
+- Google CyberSecurity Certification
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
