@@ -1,5 +1,5 @@
 ## Hi 👋
-- 🔨 Mostly use C++, Python and JS
+- 🌱 Mostly use C++, Python and JS
 - 🕹 Occasionally dabble in gamedev and malware
 - 🧠 Interested in AI and cybersecurity
 
