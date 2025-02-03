@@ -1,10 +1,13 @@
 ## Hi 👋
+- 🔨 Mostly use C++, Python and JS
+- 🕹 Occasionally dabble in gamedev and malware
+- 🧠 Interested in AI and cybersecurity
 
 ### Experiences
 - HSAS Computing Forum 2023 - Most sustainable project
 - Sentinel Challenge 2024 - Invitational Category Champion
 - Intern at Sabre - Developer for CSL HotelAvail and HotelDetails API tools
-- Google CyberSecurity Certification
+- Google Cybersecurity Certification
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
