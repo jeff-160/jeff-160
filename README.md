@@ -8,6 +8,7 @@
 - Sentinel Challenge 2024 - Invitational Category Champion
 - Intern at Sabre - Developer for CSL HotelAvail and HotelDetails API tools
 - Google Cybersecurity Certification
+- NES Connect 2025 Champion
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
