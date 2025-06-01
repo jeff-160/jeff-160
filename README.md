@@ -4,11 +4,13 @@
 - 🧠 Interested in AI and cybersecurity
 
 ### Experiences
-- HSAS Computing Forum 2023 - Most sustainable project
+- HSAS Computing Forum 2023 - Most Sustainable Project
 - Sentinel Challenge 2024 - Invitational Category Champion
 - Intern at Sabre - Developer for CSL HotelAvail and HotelDetails API tools
 - Google Cybersecurity Certification
 - NES Connect 2025 Champion
+- HCICTF 2025 Organising Team
+- GreyCTF 2025 Quals 5th Local Category
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
