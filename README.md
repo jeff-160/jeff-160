@@ -11,8 +11,8 @@
 - NES Connect 2025 Champion
 - HCICTF 2025 Organising Team
 - GreyCTF 2025 Quals 5th Local Category
-- Brainhack CDDC Finalist
-- Brainhack TIL-AI Semifinalist
+- Brainhack CDDC 2025 Finalist
+- Brainhack TIL-AI 2025 Semifinalist
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
