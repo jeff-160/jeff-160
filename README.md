@@ -5,7 +5,7 @@
 
 ### Experiences
 - HSAS Computing Forum 2023 - Most Sustainable Project
-- Sentinel Challenge 2024 - Invitational Category Champion
+- Sentinel Challenge 2024 Invitational Category Champion
 - Intern at Sabre - Developer for CSL HotelAvail and HotelDetails API tools
 - Google Cybersecurity Certification
 - NES Connect 2025 Champion
@@ -13,6 +13,7 @@
 - GreyCTF 2025 Quals 5th Local Category
 - Brainhack CDDC 2025 Finalist
 - Brainhack TIL-AI 2025 Semifinalist
+- SSMCTF 2025 1st Competitive Category
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
