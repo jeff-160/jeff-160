@@ -13,9 +13,9 @@
 - GreyCTF 2025 Quals - 5th place (Local Category)
 - Brainhack CDDC 2025 - Finalist
 - Brainhack TIL-AI 2025 - Semifinalist
-- SSMCTF 2025 - 1st place (Competitive Category)
-- SCTF 6.0 - Challenge Setter 
+- SSMCTF 2025 - 1st place (Competitive Category) 
 - GreyCTF 2025 Finals - 6th place
+- SCTF 6.0 - Organising Team
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
