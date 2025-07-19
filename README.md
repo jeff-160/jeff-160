@@ -15,6 +15,7 @@
 - Brainhack TIL-AI 2025 - Semifinalist
 - SSMCTF 2025 - 1st place (Competitive Category) 
 - GreyCTF 2025 Finals - 6th place
+- LNC 2025 - 8th place
 - SCTF 6.0 - Organising Team
 
 <h3 align="left">Languages and Tools</h3>
