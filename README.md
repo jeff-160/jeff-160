@@ -17,6 +17,7 @@
 - GreyCTF 2025 Finals - 6th place
 - LNC 2025 - 8th place
 - SCTF 6.0 - Organising Team
+- CSIT scholarship recepient
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
