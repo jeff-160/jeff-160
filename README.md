@@ -18,6 +18,7 @@
 - LNC 2025 - 8th place
 - SCTF 6.0 - Organising Team
 - CSIT computing scholar
+- Sentinel Cyber Sports Day 2025 - 2nd place
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
