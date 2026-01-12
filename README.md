@@ -19,9 +19,9 @@
 - SCTF 6.0 - Organising Team
 - CSIT computing scholar
 - Sentinel Cyber Sports Day 2025 - 2nd place
-- Eggsploit CTF 2025 - Organising team
 - Gryphons CTF 2025 - Tied for 1st in points, 3rd place overall (Open Category)
 - SIL 2025 - 6th place (Gold)
+- Eggsploit CTF 2026 - Core team + challenge setter
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
