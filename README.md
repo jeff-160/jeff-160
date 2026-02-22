@@ -22,6 +22,7 @@
 - Gryphons CTF 2025 - Tied for 1st in points, 3rd place overall (Open Category)
 - SIL 2025 - 6th place (Gold)
 - Eggsploit CTF 2026 - Core team + challenge setter
+- YBN CTF 2025 - 4th place
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
