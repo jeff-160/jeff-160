@@ -23,6 +23,7 @@
 - SIL 2025 - 6th place (Gold)
 - Eggsploit CTF 2026 - Core team + challenge setter
 - YBN CTF 2025 - 4th place
+- LNC CTF 2026 - 2nd place
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
