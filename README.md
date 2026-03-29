@@ -24,6 +24,7 @@
 - Eggsploit CTF 2026 - Core team + challenge setter
 - YBN CTF 2025 - 4th place
 - LNC CTF 2026 - 2nd place
+- NCO 2026 - Silver
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
