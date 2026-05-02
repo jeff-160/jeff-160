@@ -3,10 +3,14 @@
 - 🕹 Occasionally dabble in gamedev and malware
 - 🧠 Interested in AI and cybersecurity
 
-### Experiences
-- HSAS Computing Forum 2023 - Most Sustainable Project
-- Sentinel Challenge 2024 - Champion (Invitational Category)
-- Intern at Sabre - Developer for CSL HotelAvail and HotelDetails API tools
+### 2026  
+- Eggsploit CTF 2026 - Core team + challenge setter
+- YBN CTF 2025 - 4th place
+- LNC CTF 2026 - 2nd place
+- NCO 2026 - Silver
+- SANS Spark CTF 2026 - Division Champion
+
+### 2025 
 - Google Cybersecurity Certification
 - NES Connect 2025 - Champion
 - HCICTF 2025 - Organising Team
@@ -17,15 +21,17 @@
 - GreyCTF 2025 Finals - 6th place
 - LNC 2025 - 8th place
 - SCTF 6.0 - Organising Team
-- CSIT computing scholar
+- CSIT computing scholarship 
 - Sentinel Cyber Sports Day 2025 - 2nd place
 - Gryphons CTF 2025 - Tied for 1st in points, 3rd place overall (Open Category)
 - SIL 2025 - 6th place (Gold)
-- Eggsploit CTF 2026 - Core team + challenge setter
-- YBN CTF 2025 - 4th place
-- LNC CTF 2026 - 2nd place
-- NCO 2026 - Silver
-- SANS Spark CTF 2026 - Division Champion
+
+### 2024  
+- Intern at Sabre - Developer for CSL HotelAvail and HotelDetails API tools
+- Sentinel Challenge 2024 - Champion (Invitational Category)
+
+### 2023  
+- HSAS Computing Forum 2023 - Most Sustainable Project
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
