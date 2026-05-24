@@ -3,7 +3,7 @@
 - 🕹 Occasionally dabble in gamedev and malware
 - 🧠 Interested in AI and cybersecurity
 
-###   
+### 2026   
 - YBN CTF 2025 - 4th place
 - LNC CTF 2026 - 2nd place
 - NCO 2026 - Silver
