@@ -9,7 +9,8 @@
 - NCO 2026 - Silver
 - SANS Spark CTF 2026 - Division Champion
 - Cyberthon 2026 - Overall Champion + AI Challenge Winner
-- ASRCTF 2026 Quals - 1st place  
+- ASRCTF 2026 Quals - 1st place
+- CDDC 2026 - 2nd place Overall (Explorer Category)
 
 ### 2025 
 - Google Cybersecurity Certification
